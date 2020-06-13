@@ -6,6 +6,7 @@ Breakout board for breadboard testing using the [CS5490](https://www.cirrus.com/
 
 The board can be obtained on:
 - [OSHPark](https://oshpark.com/shared_projects/akd2GqB2)
+- [PCBWay](https://www.pcbway.com/project/shareproject/CS5490_Breakout_V0_2.html)
 
 ## Board Images
 
