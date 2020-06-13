@@ -1,4 +1,4 @@
-# CS5490 Breakout
+# CS5490 Breakout v0.2
 
 Breakout board for breadboard testing using the [CS5490](https://www.cirrus.com/products/cs5490/) Energy Monitor ASIC from Cirrus Logic.
 
