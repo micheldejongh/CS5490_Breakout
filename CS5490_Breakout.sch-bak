@@ -35,7 +35,7 @@ CS5490 Energy Monitor Breakout
 Text Notes 10650 7640 0    50   ~ 0
 v0.2
 Text Notes 8125 7640 0    50   ~ 0
-2020-06-13
+2020-06-11
 $Comp
 L Connector_Generic:Conn_01x10 J1
 U 1 1 5C1BC9AA
