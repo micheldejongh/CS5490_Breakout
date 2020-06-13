@@ -1,0 +1,25 @@
+### Module positions - created on 06/13/20 20:46:32 ###
+### Printed by Pcbnew version kicad (5.1.6)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val         Package                                           PosX       PosY       Rot  Side
+C1        27nF        C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   145.5000  -115.7500    0.0000  top
+C2        27nF        C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   141.5000  -115.7500    0.0000  top
+C3        27nF        C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   160.0000  -115.0000   90.0000  top
+C4        27nF        C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   158.0000  -115.0000  270.0000  top
+C5        100nF       C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   154.7500  -115.0000  270.0000  top
+C6        100nF       C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   153.0000  -101.7500   90.0000  top
+C7        100nF       C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   147.0000  -101.7500   90.0000  top
+C8        100nF       C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   157.5000  -108.0000  270.0000  top
+D1        LED         LED_0603_1608Metric                           151.0000  -101.7500  270.0000  top
+R1        2.4R        R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   146.5000  -118.7500  270.0000  top
+R2        2.4R        R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   140.5200  -118.7500   90.0000  top
+R3        1K          R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   142.5000  -118.7500  270.0000  top
+R4        1K          R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   144.5000  -118.7500  270.0000  top
+R5        1K          R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   158.0000  -118.7500  270.0000  top
+R6        1K          R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   160.0000  -118.7500  270.0000  top
+R7        10K         R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   154.7500  -118.7500  270.0000  top
+R8        1K          R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   149.0000  -101.7500  270.0000  top
+U1        CS5490-ISZ  SOIC-16_3.9x9.9mm_P1.27mm                     151.0000  -108.0000   90.0000  top
+Y1        4.096MHz    Crystal_SMD_HC49-SD                           142.0000  -105.5000  270.0000  top
+## End
